@@ -52,5 +52,5 @@ LastSeen — дата последней активности пользоват
 График зависимости времени обучения от выбранной модели предсказания:
 ![image](https://user-images.githubusercontent.com/71456738/125323280-47b29080-e347-11eb-83af-24c64f0ee556.png)
 График зависимости времени предсказания от выбранной модели предсказания:
-![image](https://user-images.githubusercontent.com/71456738/125323461-79c3f280-e347-11eb-867c-3b5725a7b241.png)
+![image](https://user-images.githubusercontent.com/71456738/125323572-9ceea200-e347-11eb-9521-b9d20cbdfc37.png)
 
